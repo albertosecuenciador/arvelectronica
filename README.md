@@ -1,5 +1,6 @@
+Blog www.arvelectrónica.com.ar
 
-
+Para el post #1 descargar el archivo: secuenciador_v1.ino
 
 # arvelectronica
 Proyectos para promover la música electrónica a través del software libre
