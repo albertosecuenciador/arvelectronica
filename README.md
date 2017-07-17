@@ -1,4 +1,6 @@
-  
+
+
+
 # arvelectronica
 Proyectos para promover la música electrónica a través del software libre
 
@@ -17,4 +19,10 @@ El secuenciador tiene como base una placa Arduino MEGA 2560, un display LCD de 1
 Cualquier inquietud , sugerencia, etc. no duden en contactarme:
 
 alberto@arvelectronica.com.ar
+
+Contribuciones: Pueden ser en forma de mejoras al código, o monetariamente al siguiente link:
+
+https://www.paypal.me/arvelectronica
+
+
 
