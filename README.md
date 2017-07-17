@@ -24,5 +24,8 @@ Contribuciones: Pueden ser en forma de mejoras al código, o monetariamente al s
 
 https://www.paypal.me/arvelectronica
 
+Por otros usos que no sean personal o como hobbista solicitar los permisos correspondientes
+
+
 
 
